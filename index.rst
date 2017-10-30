@@ -6,3 +6,4 @@ Python Demo
    :caption: Contents:
 
    virtual_environment.rst
+   sphinx.rst
